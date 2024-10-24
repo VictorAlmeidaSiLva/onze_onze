@@ -1,5 +1,5 @@
 <template>
-  <div class="container-xxl bg-white p-0">
+  <div class="container-fluid bg-white p-0">
         <!-- Spinner Start -->
         <!-- <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -10,7 +10,7 @@
 
 
         <!-- Navbar & Hero Start -->
-        <div class="container-xxl position-relative p-0">
+        <div class="container-fluid position-relative p-0">
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark px-4 px-lg-5 py-3 py-lg-0">
                 <a href="" class="navbar-brand p-0 d-flex align-items-center">
                     <img src="./assets/logo.png" alt="logo" style="height: auto; width: auto;" />
@@ -39,7 +39,7 @@
                 </div>
             </nav>
 
-            <div class="container-xxl py-5 bg-dark hero-header mb-5">
+            <div class="container-fluid py-5 bg-dark hero-header mb-5">
                 <div class="container my-5 py-5">
                     <div class="row align-items-center g-5">
                         <div class="col-lg-6 text-center text-lg-start">
@@ -58,7 +58,7 @@
 
 
         <!-- Service Start -->
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container">
                 <div class="row g-4 justify-content-center"> <!-- Adicionado 'justify-content-center' -->
                     <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
@@ -85,7 +85,7 @@
 
 
         <!-- About Start -->
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container">
                 <div class="row g-5 align-items-center">
                     <div class="col-lg-6">
@@ -137,7 +137,7 @@
 
 
         <!-- Menu Start -->
-        <div class="container-xxl py-5">
+        <div class="container-fluid py-5">
             <div class="container">
                 <div class="text-center wow fadeInUp" data-wow-delay="0.1s">
                     <h5 class="section-title ff-secondary text-center text-primary fw-normal">Menu</h5>
