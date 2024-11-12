@@ -5,7 +5,7 @@
         <div class="w-100 d-flex flex-column text-start ps-4">
           <h5 class="d-flex justify-content-between border-bottom pb-2">
             <span>{{ itemName }}</span>
-            <span class="text-primary">{{ itemPrice }}</span>
+            <span class="text-primary">R$ {{ itemPrice }} Kg</span>
           </h5>
           <small class="fst-italic">{{ itemDescription }}</small>
         </div>
