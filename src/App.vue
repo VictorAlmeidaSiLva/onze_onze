@@ -94,7 +94,7 @@
             <div class="col-lg-6">
               <h5 class="section-title ff-secondary text-start text-primary fw-normal">Sobre nós</h5>
               <h1 class="mb-4">Bem vindo  <i class="fa fa-utensils text-primary me-2"></i>Onze & Onze</h1>
-              <p class="mb-4">A ONZE & ONZE PREMIUM possui equipe treinada e especializada para atende-los de forma diferenciada, e garantir a qualidades dos cortes que você levará para a sua casa. Faça o seu churrasco com a gente, e conheça nosso alto padrão de qualidade e atendimento. Venha nos conhecer, estamos esperando por você! </p>
+              <p class="mb-4">A ONZE & ONZE PREMIUM é a mais tradicional casa de carnes de Bauru, reconhecida pela excelência, qualidade e frescor de seus produtos. Desde 1985, trabalhamos com gado de corte criado a pasto, com alimentação à base de capim e sal mineral, garantindo um sabor superior. Recentemente, incorporamos a raça Angus, conhecida pela carne de alta qualidade, com excelente marmoreio, que proporciona suculência e maciez. Nossa equipe treinada oferece um atendimento diferenciado para garantir a melhor experiência e qualidade nos cortes. Venha conhecer nosso alto padrão de carnes e atendimento! </p>
               <div class="row g-4 mb-4">
                 <div class="col-sm-6">
                   <div class="d-flex align-items-center border-start border-5 border-primary px-3">
